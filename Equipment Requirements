@@ -1,6 +1,8 @@
 This file highlights all of the required materials for our project and the reason for them. We have some information about costs when applicable. 
 NOTE: This is a everchanging document that can (and most likely will) be overwritten in time
 
-1.) Photodiode
-2.) Oscilloscope
-3.) Artificial Light sources LEDs, lightbulbs, flashlights, fluorescent lights) for testing and developing Bulb Response Functions (BRFs) 
+1.) Photodiode - TEMT6000 Ambient Light Sensor (link: https://learn.sparkfun.com/tutorials/temt6000-ambient-light-sensor-hookup-guide/all)
+2.) Oscilloscope Potentially Needed
+3.) Artificial Light sources LEDs, lightbulbs, flashlights, fluorescent lights, halogen lights, etc. for testing and developing Bulb Response Functions (BRFs) 
+4.) Acces to power supply
+5.) Box for portability 
