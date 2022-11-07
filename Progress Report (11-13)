@@ -1,0 +1,13 @@
+Description: For our project we will create a portable light identification device that can identify artificial light sources using a photodiode sensor.
+
+Completed Tasks:
+- We have ordered our sensors that we plan to use for the project (see Equipment Requirements page)
+
+Close Future Tasks to Complete:
+- Need to formalize our experimental procedure (interface circuit w/ RPi Pico and sensor, python sampling program, shielding techniques, etc.)
+- Conduct the experiments to collect bulb response functions (BRFs)
+- We need to increase our understanding of the physics behind the bulb response functions and how they change/why they are different between sources (meet with Mark Sheinin)
+
+Further Out Tasks:
+- Make the software program that identifies artificial light sources based on output signal
+- Make this a portable device
